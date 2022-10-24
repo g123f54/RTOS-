@@ -1,0 +1,13 @@
+main.c:102:6:User_Init	4	static
+main.c:125:15:Get_Key_State	16	static
+main.c:167:6:Send_mouse_msg	8	static
+main.c:176:6:mouse	16	static
+main.c:250:6:blerec	24	static
+main.c:285:5:main	16	static
+main.c:344:6:SystemClock_Config	88	static
+main.c:388:13:MX_ADC1_Init	24	static
+main.c:446:13:MX_USART2_UART_Init	8	static
+main.c:479:13:MX_USART3_UART_Init	8	static
+main.c:512:13:MX_GPIO_Init	56	static
+main.c:643:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:660:6:Error_Handler	4	static,ignoring_inline_asm
